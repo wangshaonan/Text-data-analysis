@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/814d0095-a04a-4425-8ce8-740a82e56e82)---
+---
 title: Schedule and Readings
 layout: default
 nav_order: 2
