@@ -1,8 +1,27 @@
-title: Text-data-analysis
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: RUC/TextAnalysis
+description: 
+"Text Data Analysis" is a comprehensive course designed to equip students with the fundamental skills and advanced techniques necessary for analyzing and interpreting textual data. 
 theme: just-the-docs
 
 url: https://wangshaonan.github.io/Text-data-analysis
 
 # aux_links:
 #   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+collections:
+  modules:
+
+defaults:
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: [ ]
+  blanklines: false
+  profile: false
