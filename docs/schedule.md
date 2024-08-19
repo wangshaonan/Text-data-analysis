@@ -15,8 +15,6 @@ The course schedule may be subject to change. The textbooks and materials for th
 **Natural language processing and large language models**{: .label .label-yellow }《自然语言处理基础与大模型：案例与实践》，宗成庆、赵阳、飞桨教材编写组
 <br />
 
-These textbooks are primarily for reference; we will not be "following" them in any sense. Additional readings will include research papers and blog posts. 
-
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
