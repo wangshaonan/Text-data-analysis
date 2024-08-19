@@ -7,7 +7,7 @@ nav_order: 1
 # Text Data Analysis
 **RUC, Spring 2024**<br />
 
-This course offers an .
+This course offers an comprehensive.
 
 ## Course Staff
 INSTRUCTOR
