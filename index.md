@@ -7,7 +7,7 @@ nav_order: 1
 # Text Data Analysis
 **RUC, Spring 2024**<br />
 
-This course offers an comprehensive.
+This course provides comprehensive coverage of text data analysis, including data collection and cleaning, data representation, building text representation models, pretraining large language models, data classification and clustering, text summarization, and applying these methods to research questions in fields such as social science.
 
 ## Course Staff
 INSTRUCTOR
