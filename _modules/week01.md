@@ -22,4 +22,6 @@ title: Week 1, Sep. 7
 
 [Unlocking Personalities: Predicting MBTI Types from Text Posts](https://medium.com/@sylviasinnelius/unlocking-personalities-predicting-mbti-types-from-text-posts-33fb0f06e3f2)
 
+[Document-level Multi-aspect Sentiment Classification by Jointly Modeling Users, Aspects, and Overall Ratings](https://aclanthology.org/C18-1079/)
+
 ---
