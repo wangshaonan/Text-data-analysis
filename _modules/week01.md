@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/de8fe5ef-6366-492c-83ed-6f17218a3ef6)---
+---
 title: Week 1, Sep. 7
 ---
 
@@ -21,6 +21,5 @@ title: Week 1, Sep. 7
 [You are what you tweet: Personality expression and perception on Twitter](https://www.sciencedirect.com/science/article/abs/pii/S009265661200133X)
 
 [Unlocking Personalities: Predicting MBTI Types from Text Posts](https://medium.com/@sylviasinnelius/unlocking-personalities-predicting-mbti-types-from-text-posts-33fb0f06e3f2)
-)
 
 ---
