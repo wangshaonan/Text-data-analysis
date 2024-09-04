@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/de8fe5ef-6366-492c-83ed-6f17218a3ef6)---
 title: Week 1, Sep. 7
 ---
 
@@ -8,18 +8,19 @@ title: Week 1, Sep. 7
 - How to study this course
 - Case analysis
 - Issues and challenges faced
-- Course schedule and assessment methods
+  
 
 ### Lecture
 : [Slides](), 
 
 ### Reading
-:[Computational social science](https://lazerlab.net/publication/computational-social-science)
+[Computational social science](https://lazerlab.net/publication/computational-social-science)
 
-[Predicting Personality from Patterns of Behavior Collected with Smartphones](https://www.pnas.org/doi/full/10.1073/pnas.1920484117)
+[Private traits and attributes are predictable from digital records of human behavior](https://www.pnas.org/doi/full/10.1073/pnas.1218772110)
 
-[The Conceptual Structure of Human Relationships Across Modern and Historical Cultures](https://osf.io/preprints/psyarxiv/ut6qp)
+[You are what you tweet: Personality expression and perception on Twitter](https://www.sciencedirect.com/science/article/abs/pii/S009265661200133X)
 
-[亚马逊雨林火灾数据的可视化分析](https://whiterr.github.io/2020/01/01/%E4%BA%9A%E9%A9%AC%E9%80%8A%E9%9B%A8%E6%9E%97%E7%81%AB%E7%81%BE%E6%95%B0%E6%8D%AE%E7%9A%84%E5%8F%AF%E8%A7%86%E5%8C%96%E5%88%86%E6%9E%90.html)
+[Unlocking Personalities: Predicting MBTI Types from Text Posts](https://medium.com/@sylviasinnelius/unlocking-personalities-predicting-mbti-types-from-text-posts-33fb0f06e3f2)
+)
 
 ---
