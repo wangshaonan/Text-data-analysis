@@ -11,7 +11,7 @@ title: Week 1, Sep. 7
   
 
 ### Lecture
-: [Slides](), 
+: [Slides](https://pan.baidu.com/s/1la909NAwvdUNHCWkmDcGCw) with code: h7c4, 
 
 ### Reading
 [Computational social science](https://lazerlab.net/publication/computational-social-science)
