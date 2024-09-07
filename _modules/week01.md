@@ -11,7 +11,12 @@ title: Week 1, Sep. 7
   
 
 ### Lecture
-: [Slides](https://pan.baidu.com/s/1la909NAwvdUNHCWkmDcGCw) with code: h7c4, 
+[Slides](https://pan.baidu.com/s/1la909NAwvdUNHCWkmDcGCw) with code: h7c4 
+
+[Jupyter notebook tutorial](https://pan.baidu.com/s/1sWk4ZEMDwsNCW80StuBKtQ) with code: npa7
+
+[Jupyter notebook](https://pan.baidu.com/s/1sOAlsRDzzxDNNUo6p5QLRQ) with code: ng6k
+
 
 ### Reading
 [Computational social science](https://lazerlab.net/publication/computational-social-science)
