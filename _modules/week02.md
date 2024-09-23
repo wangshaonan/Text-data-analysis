@@ -8,7 +8,7 @@ title: Week 2, Sep. 21
   
 
 ### Lecture
-[Slides](https://pan.baidu.com/s/1beKwILez3lBF7rYrT2iFfg) with code: dyaa 
+[Slides](https://pan.baidu.com/s/1RfPR0FneIppYNUH1F4ILOw) with code: zjwz 
 
 [HTML examples](https://pan.baidu.com/s/14SOjAVrucIUe1CCSMRglKw) with code: ww72
 
