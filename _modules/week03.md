@@ -13,7 +13,7 @@ title: Week 3, Sep. 28
   
 
 ### Lecture
-[Slides]() with code: 
+[Slides](https://pan.baidu.com/s/14GaxzINlj_1UAg6kikCkSw) with code: vbdc
 
 
 ### Reading
