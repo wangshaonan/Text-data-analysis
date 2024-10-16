@@ -2,7 +2,7 @@
 title: Week 2, Sep. 21
 ---
 
-### Data collection and preprocessing
+## Data collection and preprocessing
 - How to crawl data from a website, utilize APIs, and leverage existing corpora
 - How to preprocess the text data crawl from the internet
   
