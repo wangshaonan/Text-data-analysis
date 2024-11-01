@@ -10,7 +10,7 @@ title: Week 5, Nov. 2
   
 
 ### Lecture
-[Slides](https://pan.baidu.com/s/1sVPwuL8CRV4BYZveQMlbOQ) with code: 6hnk 
+[Slides](https://pan.baidu.com/s/17YnwwhcYgcqbQI_CHMI5qg) with code: dk0r 
 
 [Jupyter notebook](https://pan.baidu.com/s/1B7SRPqQhNCf3LHF2ig-UUQ) with code: jp71
 
