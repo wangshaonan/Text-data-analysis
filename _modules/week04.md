@@ -12,7 +12,7 @@ title: Week 4, Oct. 19
   
 
 ### Lecture
-[Slides](https://pan.baidu.com/s/1C2HnzsEk0tZr1LntbzdH8w) with code: 0g5j
+[Slides](https://pan.baidu.com/s/19ZhTAjftBHDEkXNo6_UaWA) with code: 1t7h
 
 
 ### Reading
