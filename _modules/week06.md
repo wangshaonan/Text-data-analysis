@@ -7,10 +7,9 @@ title: Week 6, Nov. 9
 - Elmo
 - GPT
 - BERT
-  
 
 ### Lecture
-[Slides](https://pan.baidu.com/s/15rf8rp1aD9PLthnMDok9OQ) with code: eq29
+[Slides](https://pan.baidu.com/s/1xIFFAQMDbX51UP8FLUJTYg) with code: roqu
 
 ### Reading
 [Attention is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
