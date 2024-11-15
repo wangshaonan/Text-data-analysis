@@ -9,7 +9,7 @@ title: Week 7, Nov. 16
 - Evaluation
 
 ### Lecture
-[Slides](https://pan.baidu.com/s/1BtFPnpNzy1ZeAYGFVcxLyQ) with code: wqjt
+[Slides](https://pan.baidu.com/s/1YpFMajX9NtsFlhtSNfBVQg) with code: 813f
 
 [Code&data](https://pan.baidu.com/s/1gs1NhuwoEwQl9o0SJRQqrQ) with code: l69h
 
