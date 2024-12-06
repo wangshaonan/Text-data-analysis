@@ -9,4 +9,4 @@ title: Week 9, Nov. 30
 - Event extraction
 
 ### Lecture
-[Slides]() with code: 
+[Slides](https://pan.baidu.com/s/1v79J2V870H6PYihutakZYQ) with code: 2014
